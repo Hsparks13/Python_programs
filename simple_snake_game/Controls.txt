@@ -1,0 +1,9 @@
+Controls ::::
+
+UP key for up movement
+DOWN key for down movement
+RIGHT key for right movement
+LEFT key for left movement
+SPACE BAR to pause the game
+ESC key to exit the game
+ENTER key to continue a paused game
