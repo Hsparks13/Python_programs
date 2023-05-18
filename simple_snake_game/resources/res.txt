@@ -1,0 +1,3 @@
+This file contains the resources that the game uses.
+The graphics are designed by me and hence use it for personal use only.
+The sound and bg music are downloaded from the internet and all the rights belong to the respective owners.
